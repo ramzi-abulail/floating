@@ -1,0 +1,14 @@
+th,td {
+    width: 60px;
+    height: 50px;
+    background-color:rgb(255, 255, 255);
+    border-radius: 15px;
+    border-style: double;
+    border-color: black;
+    box-shadow: 10px 10px;
+  }
+  
+      table {
+      border-spacing: 20px;
+  }
+  

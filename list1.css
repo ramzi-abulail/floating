@@ -1,0 +1,8 @@
+a:hover{text-decoration: underline;color: #fcff48}
+#id1{color:blue}
+#id2:hover{text-decoration: underline;color: #ff4848;background-color: #fcff48;}
+#id3{font-weight: bold;
+    text-decoration: underline;
+    color:#ff4848;}
+ a.ggg:hover, a.ggg:active {color: red;}
+ #id4{font-weight: bold;}

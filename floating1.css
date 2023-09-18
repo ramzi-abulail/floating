@@ -1,0 +1,24 @@
+div.tyu{
+    background-color: rgb(251, 255, 0);
+   height: 100px;
+   width: 650px;
+    overflow: scroll;
+    position: fixed;
+    top: 260px;
+    right: 55%;
+}
+th {
+width: 200px;
+height: 200px;
+background-color:aqua;
+border-style: double;
+border-color: black;
+margin-bottom: 120px;
+}
+table {
+border-spacing: 20px;
+}
+#id1{
+margin-top:7%;
+margin-right: %;
+}
